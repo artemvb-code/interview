@@ -1,0 +1,39 @@
+If you’re preparing for an interview and expect GitHub-related questions, they may focus on GitHub usage, Git version control, collaboration, security, and CI/CD integration. Here are some common GitHub interview questions categorized based on different expertise levels:
+
+Basic GitHub Interview Questions
+	1.	What is GitHub, and how is it different from Git?
+	2.	How do you create a new repository on GitHub?
+	3.	How do you clone a GitHub repository?
+	4.	What are GitHub branches, and why are they useful?
+	5.	How do you create and switch between branches in GitHub?
+	6.	What is the difference between git pull and git fetch?
+	7.	How do you resolve merge conflicts in GitHub?
+	8.	How do you fork a repository, and why is it useful?
+	9.	What is a GitHub issue, and how do you use it to track bugs or tasks?
+	10.	What is the difference between GitHub and GitLab/Bitbucket?
+
+Intermediate GitHub Interview Questions
+	11.	How do you contribute to an open-source project on GitHub?
+	12.	What is a GitHub pull request (PR), and how does it work?
+	13.	How do you squash commits in a pull request?
+	14.	Explain the difference between git merge and git rebase.
+	15.	What are GitHub Actions, and how do they work?
+	16.	How do you automate testing and deployment using GitHub Actions?
+	17.	What is GitHub Pages, and how do you deploy a static website using it?
+	18.	How do you revert a commit that has already been pushed?
+	19.	What are GitHub webhooks, and how do they work?
+	20.	How do you handle large files in a GitHub repository? (e.g., Git LFS)
+
+Advanced GitHub Interview Questions
+	21.	What are GitHub Organizations, and how do you manage teams and permissions?
+	22.	How do you secure a GitHub repository? (e.g., branch protection rules, security scans)
+	23.	What is GitHub Enterprise, and when would you use it?
+	24.	How do you integrate GitHub with CI/CD pipelines?
+	25.	Explain the importance of signing commits in GitHub.
+	26.	What is Dependabot, and how does it help with security in GitHub repositories?
+	27.	How do you enforce code reviews in GitHub before merging a pull request?
+	28.	What strategies can be used to maintain a clean Git commit history?
+	29.	How does GitHub handle code vulnerabilities, and what tools does it provide for security?
+	30.	How do you set up a GitHub Codespace, and what are its benefits?
+
+Would you like me to tailor the questions more toward DevSecOps, team collaboration, or CI/CD automation based on your experience? 😊

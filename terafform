@@ -1,0 +1,97 @@
+1. Terraform Basics Interview Questions
+	1.	What is Terraform, and how does it work?
+	2.	How does Terraform compare to other IaC tools like CloudFormation and Ansible?
+	3.	What is the Terraform workflow (Write, Plan, Apply)?
+	4.	What are the key components of Terraform?
+	5.	What is a Terraform provider, and how does it work?
+	6.	What is the difference between Terraform state and Terraform plan?
+	7.	What is Terraform HCL (HashiCorp Configuration Language), and why is it used?
+	8.	How does Terraform handle dependencies between resources?
+	9.	What is the difference between terraform apply and terraform destroy?
+	10.	What are Terraform variables, and how are they used?
+
+2. Terraform State Management Interview Questions
+	11.	What is Terraform state, and why is it important?
+	12.	Where does Terraform store its state file by default?
+	13.	What are the differences between local and remote Terraform state?
+	14.	How do you manage Terraform state in a team environment?
+	15.	What is Terraform backend, and what are some common backends used?
+	16.	What are the security risks of Terraform state files, and how do you mitigate them?
+	17.	How do you handle Terraform state locking?
+	18.	What is the purpose of terraform refresh?
+	19.	How do you import an existing infrastructure resource into Terraform state?
+	20.	How do you handle Terraform state drift?
+
+3. Terraform Modules Interview Questions
+	21.	What are Terraform modules, and why are they useful?
+	22.	How do you create and use a Terraform module?
+	23.	What is the difference between a root module and a child module?
+	24.	How do you pass variables between Terraform modules?
+	25.	How do you structure a Terraform project with multiple modules?
+	26.	What are the best practices for using Terraform modules?
+	27.	How do you version Terraform modules?
+	28.	What is the difference between a public and a private Terraform module?
+	29.	How do you share Terraform modules within an organization?
+	30.	How do you handle module dependencies in Terraform?
+
+4. Terraform Provisioners & Functions Interview Questions
+	31.	What are Terraform provisioners, and when should you use them?
+	32.	What is the difference between local-exec and remote-exec provisioners?
+	33.	Why is using provisioners in Terraform discouraged?
+	34.	What are Terraform data sources, and how do they work?
+	35.	What are some commonly used Terraform built-in functions?
+	36.	How do you use conditional expressions in Terraform?
+	37.	What is the purpose of Terraform dynamic blocks?
+	38.	How do you use loops in Terraform (for_each vs count)?
+	39.	How do you define and use custom functions in Terraform?
+	40.	How do you generate random values in Terraform?
+
+5. Terraform Security & Compliance Interview Questions
+	41.	How do you secure sensitive data in Terraform?
+	42.	What is Terraform Vault, and how does it work?
+	43.	How do you store secrets securely in Terraform?
+	44.	How do you implement role-based access control (RBAC) with Terraform?
+	45.	What is Sentinel, and how does it help with policy enforcement in Terraform?
+	46.	How do you enforce compliance in Terraform with Open Policy Agent (OPA)?
+	47.	What are Terraform security best practices?
+	48.	How do you prevent accidental infrastructure deletions in Terraform?
+	49.	How do you audit Terraform changes and track them over time?
+	50.	How do you restrict resource creation and modification in Terraform?
+
+6. Terraform CI/CD & Automation Interview Questions
+	51.	How do you integrate Terraform with a CI/CD pipeline?
+	52.	What are the best practices for running Terraform in CI/CD?
+	53.	How do you handle multiple environments (dev, staging, prod) in Terraform?
+	54.	How do you manage Terraform workspace for different environments?
+	55.	How do you automate Terraform deployments using GitHub Actions, GitLab CI, or Jenkins?
+	56.	What is the purpose of terraform fmt and terraform validate?
+	57.	How do you test Terraform code before deploying it?
+	58.	What are some tools used for Terraform static code analysis?
+	59.	How do you manage Terraform state across different environments in CI/CD?
+	60.	What is Atlantis, and how does it help with Terraform automation?
+
+7. Advanced Terraform Topics & Cloud Integration
+	61.	How do you use Terraform with AWS, Azure, and GCP?
+	62.	What is the difference between Terraform Open Source and Terraform Cloud?
+	63.	How do you handle multi-cloud deployments with Terraform?
+	64.	What is the Terraform Cloud Agent, and when should you use it?
+	65.	How do you optimize Terraform execution time for large infrastructures?
+	66.	What is the difference between terraform taint and terraform state rm?
+	67.	How do you use Terraform import to manage existing cloud resources?
+	68.	What are the advantages of using Terraform Enterprise?
+	69.	How do you scale Terraform for enterprise-level infrastructure?
+	70.	What are the most common Terraform performance bottlenecks, and how do you optimize them?
+
+8. Terraform Troubleshooting & Debugging
+	71.	How do you debug Terraform errors?
+	72.	What is TF_LOG, and how does it help in debugging Terraform?
+	73.	How do you recover from a failed Terraform apply?
+	74.	What do you do if Terraform gets stuck during execution?
+	75.	How do you rollback changes if a Terraform deployment goes wrong?
+	76.	What is the difference between terraform refresh and terraform state pull?
+	77.	How do you resolve Terraform dependency conflicts?
+	78.	What is a Terraform plan file, and how do you use it?
+	79.	How do you fix Terraform drift issues?
+	80.	How do you handle API rate limiting issues in Terraform when working with cloud providers?
+
+Would you like Terraform deep dives into specific areas such as state management, security best practices, multi-cloud architecture, or CI/CD integration based on your DevSecOps strategy? 🚀

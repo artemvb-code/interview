@@ -1,0 +1,63 @@
+If you’re preparing for an Infrastructure as Code (IaC) interview, expect questions about Terraform, AWS CloudFormation, Ansible, Pulumi, automation, security, and best practices. Here’s a categorized list of IaC interview questions to help you prepare:
+
+1. Basic IaC Interview Questions
+	1.	What is Infrastructure as Code (IaC), and why is it important?
+	2.	What are the benefits of using IaC over manual provisioning?
+	3.	What are some popular IaC tools?
+	4.	How does IaC improve DevOps workflows?
+	5.	What is the difference between declarative and imperative IaC?
+	6.	How does IaC help with cloud automation?
+	7.	What are some common challenges in implementing IaC?
+	8.	How do you handle secrets and credentials in IaC?
+	9.	What is the difference between stateful and stateless infrastructure?
+	10.	How do you version control your infrastructure code?
+
+2. Terraform-Specific IaC Interview Questions
+	11.	What is Terraform, and how does it work?
+	12.	How does Terraform differ from CloudFormation?
+	13.	What is a Terraform state file, and why is it important?
+	14.	What are Terraform modules, and how do they help with reusability?
+	15.	How do you manage Terraform state in a team environment?
+	16.	What is Terraform remote backend, and when should you use it?
+	17.	What is the difference between terraform plan, terraform apply, and terraform destroy?
+	18.	How do you use Terraform workspaces?
+	19.	How do you handle drift in Terraform-managed infrastructure?
+	20.	What is the purpose of terraform import?
+
+3. AWS CloudFormation-Specific IaC Interview Questions
+	21.	What is AWS CloudFormation, and how does it work?
+	22.	How do CloudFormation templates work?
+	23.	What is the difference between AWS CloudFormation and AWS CDK?
+	24.	How do you handle rollbacks in CloudFormation?
+	25.	What are CloudFormation stacks, and how do you manage them?
+	26.	How do you perform drift detection in AWS CloudFormation?
+	27.	What is a CloudFormation StackSet, and how does it work?
+	28.	How do you reference resources between multiple CloudFormation stacks?
+	29.	What are AWS CloudFormation change sets, and why are they useful?
+	30.	How does CloudFormation handle dependencies between resources?
+
+4. Advanced IaC Interview Questions
+	31.	What is the difference between Ansible, Terraform, and CloudFormation?
+	32.	How do you ensure security in IaC deployments?
+	33.	How do you test and validate IaC configurations before applying changes?
+	34.	What are the best practices for structuring IaC repositories?
+	35.	How do you handle secrets and sensitive data in Terraform or CloudFormation?
+	36.	What is GitOps, and how does it relate to IaC?
+	37.	How do you implement CI/CD pipelines for IaC automation?
+	38.	What are some strategies for IaC drift management?
+	39.	How do you enforce policies in IaC using tools like Open Policy Agent (OPA) or AWS Config?
+	40.	How do you prevent IaC misconfigurations that could lead to security vulnerabilities?
+
+5. DevSecOps and Compliance-Focused IaC Questions
+	41.	How does IaC help with compliance and governance in cloud environments?
+	42.	What tools can be used to scan Terraform configurations for security issues?
+	43.	How do you enforce least privilege access when defining IAM roles in IaC?
+	44.	How can you detect and remediate misconfigurations in IaC?
+	45.	What role does policy-as-code play in IaC security?
+	46.	How would you design an IaC solution that ensures high availability and disaster recovery?
+	47.	How do you ensure idempotency in IaC deployments?
+	48.	What are some common security pitfalls when writing Terraform or CloudFormation scripts?
+	49.	How do you manage infrastructure across multiple cloud providers using IaC?
+	50.	How do you automate security patching using IaC?
+
+Would you like more DevSecOps-specific or multi-cloud IaC questions based on your experience? 😊

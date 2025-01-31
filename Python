@@ -1,0 +1,99 @@
+If you’re preparing for a Python interview, the questions can cover basic syntax, object-oriented programming (OOP), data structures, algorithms, libraries, DevOps/automation, and security. Here’s a categorized list of Python interview questions to help you prepare:
+
+1. Basic Python Interview Questions
+	1.	What is Python, and what are its key features?
+	2.	How is Python different from other programming languages?
+	3.	What are Python’s built-in data types?
+	4.	What is the difference between lists and tuples?
+	5.	How do you define and call a function in Python?
+	6.	What is the difference between == and is in Python?
+	7.	What are Python’s mutable and immutable types?
+	8.	**What are *args and kwargs in function arguments?
+	9.	How does Python handle memory management?
+	10.	What is the difference between deep copy and shallow copy?
+
+2. Python OOP (Object-Oriented Programming) Interview Questions
+	11.	What is object-oriented programming (OOP) in Python?
+	12.	How do you define a class in Python?
+	13.	What are instance, class, and static methods?
+	14.	What is method overriding in Python?
+	15.	What is the difference between @staticmethod and @classmethod?
+	16.	How do you implement multiple inheritance in Python?
+	17.	What is the difference between composition and inheritance?
+	18.	How does Python implement encapsulation?
+	19.	What is a metaclass in Python?
+	20.	How do you use the super() function in Python?
+
+3. Python Data Structures & Algorithms Interview Questions
+	21.	How do you reverse a string in Python?
+	22.	How do you find the largest and smallest numbers in a list?
+	23.	What is the difference between a list and a dictionary?
+	24.	How do you implement a queue in Python?
+	25.	How do you implement a stack in Python?
+	26.	What is the difference between sort() and sorted() in Python?
+	27.	What is a set in Python, and how is it different from a list?
+	28.	How do you remove duplicates from a list?
+	29.	How do you find the intersection of two lists in Python?
+	30.	What is the time complexity of accessing an element in a dictionary?
+
+4. Python for DevOps & Automation Interview Questions
+	31.	How do you automate file handling using Python?
+	32.	What is the subprocess module used for?
+	33.	How do you execute shell commands in Python?
+	34.	How do you use Python for infrastructure automation?
+	35.	What is the difference between os and sys modules?
+	36.	How can you use Python for log monitoring and analysis?
+	37.	What is the purpose of the logging module in Python?
+	38.	How do you work with environment variables in Python?
+	39.	How do you send HTTP requests using Python? (e.g., requests module)
+	40.	How do you parse JSON data in Python?
+
+5. Python Security & DevSecOps Interview Questions
+	41.	How do you securely handle passwords in Python?
+	42.	What is the hashlib module, and how do you use it?
+	43.	How do you prevent SQL injection in Python applications?
+	44.	How do you validate and sanitize user input in Python?
+	45.	What are some best practices for handling secrets in Python applications?
+	46.	How do you implement role-based access control (RBAC) in Python?
+	47.	What is dependency injection, and how does it improve security?
+	48.	How can Python be used to scan for vulnerabilities in code?
+	49.	What are some common Python security vulnerabilities, and how do you mitigate them?
+	50.	How do you implement API authentication using Python?
+
+6. Python Performance & Optimization Interview Questions
+	51.	How do you optimize a slow Python script?
+	52.	What is the difference between map(), filter(), and reduce()?
+	53.	How do you use list comprehensions for better performance?
+	54.	How do you profile a Python script for performance bottlenecks?
+	55.	What is memoization, and how does functools.lru_cache help?
+	56.	How do you handle large datasets efficiently in Python?
+	57.	What is the Global Interpreter Lock (GIL), and how does it affect performance?
+	58.	How do you optimize memory usage in Python?
+	59.	How do you handle multithreading and multiprocessing in Python?
+	60.	What is the difference between yield and return in Python?
+
+7. Python Testing & CI/CD Interview Questions
+	61.	What is unit testing in Python, and how do you write a test case?
+	62.	How do you mock dependencies in Python tests?
+	63.	What is the difference between pytest and unittest?
+	64.	How do you integrate Python tests into a CI/CD pipeline?
+	65.	What is test-driven development (TDD) in Python?
+	66.	How do you handle test coverage in Python?
+	67.	What is tox, and how does it help in testing?
+	68.	How do you handle flaky tests in Python?
+	69.	How do you perform integration testing in Python applications?
+	70.	What are some best practices for writing maintainable tests in Python?
+
+8. Python Libraries & Frameworks Interview Questions
+	71.	What is Flask, and how does it compare to Django?
+	72.	How do you define API routes in Flask?
+	73.	What is FastAPI, and why is it gaining popularity?
+	74.	How do you connect a Python application to a database?
+	75.	What is SQLAlchemy, and how does it work?
+	76.	What is Pandas, and how do you use it for data analysis?
+	77.	How do you visualize data using Matplotlib or Seaborn?
+	78.	What is Celery, and how is it used in Python applications?
+	79.	How do you work with background tasks in Python?
+	80.	How do you implement caching in Python applications?
+
+Would you like me to focus more on DevSecOps, automation, or cloud-related Python questions based on your experience? 😊

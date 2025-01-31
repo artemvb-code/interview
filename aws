@@ -1,0 +1,99 @@
+If you’re preparing for an AWS infrastructure interview, the questions will typically cover networking, compute, storage, security, automation, and cost management. Here’s a categorized list of AWS infrastructure interview questions to help you prepare:
+
+1. AWS Infrastructure Fundamentals Interview Questions
+	1.	What are the core AWS services used for building infrastructure?
+	2.	What is the AWS Well-Architected Framework, and what are its five pillars?
+	3.	What is an AWS Availability Zone (AZ) and a Region?
+	4.	What are AWS Edge Locations and their role in AWS infrastructure?
+	5.	What is AWS Global Accelerator, and how does it work?
+	6.	What is the difference between AWS Outposts and AWS Local Zones?
+	7.	How do you design a multi-region AWS infrastructure for high availability?
+	8.	What is the difference between EC2 Reserved Instances, On-Demand, and Spot Instances?
+	9.	How do you architect an application for fault tolerance in AWS?
+	10.	What are the key differences between AWS Organizations and AWS Control Tower?
+
+2. AWS Compute Services Interview Questions
+	11.	What are the different instance types in EC2, and how do you choose one?
+	12.	What is the difference between AWS Fargate and EC2?
+	13.	How do you secure an EC2 instance?
+	14.	How does AWS Auto Scaling work, and how do you configure it?
+	15.	What is the difference between EC2 Auto Scaling and AWS Lambda Auto Scaling?
+	16.	What is AWS Lambda, and when should you use it?
+	17.	How does Amazon ECS differ from EKS?
+	18.	What is the difference between a Spot Instance and a Spot Fleet?
+	19.	What is AWS Elastic Beanstalk, and when should you use it?
+	20.	How does AWS Batch help with compute workloads?
+
+3. AWS Networking & VPC Interview Questions
+	21.	What is a VPC in AWS, and why is it important?
+	22.	What are the key components of an AWS VPC?
+	23.	How do you secure an AWS VPC using security groups and NACLs?
+	24.	What is the difference between a Public Subnet and a Private Subnet?
+	25.	What is a VPC Peering connection, and when should you use it?
+	26.	How does AWS Transit Gateway differ from VPC Peering?
+	27.	What is AWS Direct Connect, and how does it improve network performance?
+	28.	What is AWS PrivateLink, and how does it work?
+	29.	What is the difference between an Internet Gateway (IGW) and a NAT Gateway?
+	30.	How do you optimize network traffic using AWS Global Accelerator?
+
+4. AWS Storage & Database Interview Questions
+	31.	What are the different AWS storage options?
+	32.	What is the difference between EBS and EFS?
+	33.	How do you choose between S3 Standard, S3 Glacier, and S3 Intelligent-Tiering?
+	34.	What are the security best practices for AWS S3?
+	35.	What is the difference between an RDS Multi-AZ and an RDS Read Replica?
+	36.	How does AWS Aurora differ from standard RDS?
+	37.	What is DynamoDB, and when should you use it over RDS?
+	38.	How do you optimize AWS database performance using caching?
+	39.	What are the benefits of using AWS Redshift for analytics?
+	40.	How does AWS Backup help with disaster recovery?
+
+5. AWS Security & Compliance Interview Questions
+	41.	How do you secure an AWS account using IAM?
+	42.	What are IAM Policies, and how do they work?
+	43.	How do you implement the principle of least privilege in AWS?
+	44.	What is AWS KMS, and how does it work?
+	45.	How does AWS GuardDuty help in threat detection?
+	46.	What is AWS Security Hub, and how does it improve security posture?
+	47.	How do you implement network segmentation using AWS security groups?
+	48.	What are AWS Shield and AWS WAF, and how do they protect applications?
+	49.	What is AWS Secrets Manager, and when should you use it?
+	50.	How do you detect and prevent security misconfigurations in AWS infrastructure?
+
+6. AWS Infrastructure Automation & DevOps Interview Questions
+	51.	How do you manage AWS infrastructure as code (IaC)?
+	52.	What is the difference between AWS CloudFormation and Terraform?
+	53.	What are the benefits of AWS CDK over CloudFormation?
+	54.	How do you use AWS Systems Manager to manage infrastructure?
+	55.	What is AWS Config, and how does it help with compliance?
+	56.	How do you implement Blue-Green Deployments in AWS?
+	57.	What is AWS CodePipeline, and how does it integrate with CI/CD?
+	58.	How do you monitor infrastructure using AWS CloudWatch?
+	59.	What are the benefits of AWS Service Catalog for governance?
+	60.	How do you optimize cloud resources using AWS Compute Optimizer?
+
+7. AWS Cost Optimization & Monitoring Interview Questions
+	61.	What are the best practices for reducing AWS costs?
+	62.	How do you analyze and track AWS usage using AWS Cost Explorer?
+	63.	What is AWS Savings Plan, and how does it compare to Reserved Instances?
+	64.	How does AWS Compute Optimizer help with cost efficiency?
+	65.	How do you set up AWS Budgets to monitor spending?
+	66.	What is the role of AWS Trusted Advisor in cost management?
+	67.	How do you use AWS Spot Instances to save costs?
+	68.	What is the difference between AWS Auto Scaling and AWS Elastic Load Balancer in cost management?
+	69.	What is AWS Graviton, and how does it help in cost savings?
+	70.	How do you track and allocate AWS costs using AWS Organizations?
+
+8. AWS Disaster Recovery & High Availability Interview Questions
+	71.	What are the different AWS disaster recovery strategies?
+	72.	How do you implement Multi-AZ for high availability?
+	73.	What is AWS Route 53, and how does it enable failover?
+	74.	How do you use AWS Backup for disaster recovery?
+	75.	What is an AWS Multi-Region architecture, and when should you use it?
+	76.	How does AWS CloudEndure help with disaster recovery?
+	77.	What are AWS S3 replication strategies for data backup?
+	78.	How do you design a highly available architecture in AWS?
+	79.	What is AWS Elastic Disaster Recovery (DRS), and how does it work?
+	80.	How do you test disaster recovery readiness in AWS?
+
+Would you like more technical deep dives into specific areas (e.g., Networking, Security, Automation, or Cost Optimization) based on your AWS DevSecOps strategy? 😊

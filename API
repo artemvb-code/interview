@@ -2,31 +2,29 @@ Here are some API-related interview questions with short answers:
 
 🔹 API Basics
 
-1️⃣ What is an API?
+What is an API?
 	•	An Application Programming Interface (API) allows different software components to communicate.
 
-2️⃣ What are the types of APIs?
+What are the types of APIs?
 	•	REST, SOAP, GraphQL, WebSockets, gRPC.
 
-3️⃣ What is a REST API?
+What is a REST API?
 	•	A stateless API using HTTP methods (GET, POST, PUT, DELETE) to communicate.
-
-4️⃣ What are the key principles of REST?
+What are the key principles of REST?
 	•	Statelessness, Client-Server Architecture, Cacheability, Layered System, Uniform Interface.
-
-5️⃣ What is the difference between REST and SOAP?
+What is the difference between REST and SOAP?
 	•	REST: Lightweight, JSON/XML, uses HTTP methods.
 	•	SOAP: Heavy, XML-only, strict messaging format.
 
 🔹 HTTP Methods & Status Codes
 
-6️⃣ What are common HTTP methods used in APIs?
+What are common HTTP methods used in APIs?
 	•	GET: Read data
 	•	POST: Create data
 	•	PUT: Update data
 	•	DELETE: Remove data
 
-7️⃣ What are common HTTP status codes in APIs?
+What are common HTTP status codes in APIs?
 	•	200 OK – Success
 	•	201 Created – Resource created
 	•	400 Bad Request – Client error
@@ -37,64 +35,63 @@ Here are some API-related interview questions with short answers:
 
 🔹 API Authentication & Security
 
-8️⃣ How do you secure an API?
+How do you secure an API?
 	•	OAuth2, JWT (JSON Web Tokens), API Keys, Rate Limiting, CORS, Encryption (TLS).
 
-9️⃣ What is OAuth2?
+What is OAuth2?
 	•	A secure authentication framework using tokens instead of passwords.
-
-🔟 What is JWT (JSON Web Token)?
+What is JWT (JSON Web Token)?
 	•	A compact, self-contained token used for authentication and information exchange.
 
-1️⃣1️⃣ What is CORS?
+What is CORS?
 	•	Cross-Origin Resource Sharing (CORS) controls which domains can access an API.
 
-1️⃣2️⃣ How do you prevent API abuse?
+How do you prevent API abuse?
 	•	Rate limiting, IP whitelisting, authentication, logging, and bot detection.
 
 🔹 API Performance & Optimization
 
-1️⃣3️⃣ How do you optimize API performance?
+How do you optimize API performance?
 	•	Use caching (Redis, CDNs), pagination, database indexing, compression (Gzip), and async processing.
 
-1️⃣4️⃣ What is API pagination?
+What is API pagination?
 	•	A method to split large datasets into smaller pages using parameters like limit & offset.
 
-1️⃣5️⃣ How does API caching work?
+How does API caching work?
 	•	Stores frequent responses in memory (Redis, Cloudflare) to reduce database queries.
 
-1️⃣6️⃣ How do you handle long-running API requests?
+How do you handle long-running API requests?
 	•	Asynchronous processing (queues), background jobs, or WebSockets for real-time updates.
 
 🔹 API Design & Best Practices
 
-1️⃣7️⃣ What is a good practice for designing RESTful APIs?
+What is a good practice for designing RESTful APIs?
 	•	Use clear resource naming (/users, /orders), versioning (/v1/users), and proper status codes.
 
-1️⃣8️⃣ How do you handle API versioning?
+How do you handle API versioning?
 	•	URL versioning (/v1/), query parameters (?version=2), or headers (Accept: application/vnd.api+json;version=2).
 
-1️⃣9️⃣ What is HATEOAS?
+What is HATEOAS?
 	•	Hypermedia as the Engine of Application State (HATEOAS) allows APIs to return links for navigation.
 
-2️⃣0️⃣ What is an idempotent API?
+What is an idempotent API?
 	•	Calling an idempotent API multiple times has the same effect (e.g., PUT and DELETE are idempotent).
 
 🔹 Advanced API Topics
 
-2️⃣1️⃣ What is GraphQL, and how is it different from REST?
+What is GraphQL, and how is it different from REST?
 	•	GraphQL allows clients to request only the data they need, unlike REST’s fixed endpoints.
 
-2️⃣2️⃣ What is WebSockets, and when should you use it?
+What is WebSockets, and when should you use it?
 	•	A full-duplex protocol for real-time communication (e.g., chat apps, live notifications).
 
-2️⃣3️⃣ What is API Gateway?
+What is API Gateway?
 	•	A central entry point for APIs that manages security, rate limiting, authentication, and routing.
 
-2️⃣4️⃣ How do you monitor API performance?
+How do you monitor API performance?
 	•	Use APM tools (Datadog, New Relic, Prometheus), logging, and API analytics.
 
-2️⃣5️⃣ How do you handle API errors?
+How do you handle API errors?
 	•	Return clear error messages (400 Bad Request), structured JSON responses, and logs for debugging.
 
 🔥 Final Tip

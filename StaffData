@@ -1,0 +1,68 @@
+1. Technical Depth (Data Engineering Core)
+	•	Walk me through how you’d design and implement an end-to-end data pipeline.
+	•	How do you handle schema evolution in a data lake?
+	•	What is your approach to managing data quality at scale?
+	•	Explain how you would optimize Spark or BigQuery job performance.
+	•	Describe how you would implement incremental data loading in a large-scale ETL pipeline.
+
+⸻
+
+ 2. Architecture & System Design
+	•	Design a real-time streaming pipeline to handle events from millions of IoT devices.
+	•	How would you build a scalable and reliable data platform from scratch?
+	•	Describe the architecture of a modern data lakehouse. When would you use it over traditional warehouses?
+	•	How would you design a data solution for GDPR-compliant data deletion and auditability?
+	•	Explain the pros and cons of data mesh architecture.
+
+⸻
+
+ 3. Data Modeling & Storage
+	•	How do you model transactional vs. analytical data?
+	•	Describe how you’d design a data model for a multi-tenant SaaS application.
+	•	What’s your approach to handling slowly changing dimensions (SCDs)?
+	•	When would you choose columnar vs. row-based storage?
+
+⸻
+
+ 4. Streaming & Real-Time Data
+	•	Kafka vs. Flink vs. Spark Structured Streaming — when would you use each?
+	•	How do you guarantee exactly-once delivery in a streaming system?
+	•	Explain watermarking and event-time processing in stream processing.
+
+⸻
+
+☁ 5. Cloud & Infrastructure
+	•	Compare Redshift, BigQuery, and Snowflake. What are their strengths and weaknesses?
+	•	How do you manage costs in a cloud-based data infrastructure?
+	•	What are the best practices for securing a cloud data platform?
+	•	Describe your experience with infrastructure-as-code (Terraform, CloudFormation) for data stacks.
+
+⸻
+
+ 6. Monitoring, Observability & Governance
+	•	How do you monitor data pipeline health?
+	•	What tools and techniques do you use to ensure data lineage and observability?
+	•	How do you detect and handle anomalies in data pipelines?
+
+⸻
+
+ 7. Security, Privacy, and Compliance
+	•	How do you implement fine-grained access control in a data warehouse?
+	•	Describe how you’d ensure HIPAA or GDPR compliance in your data systems.
+	•	What’s your approach to data masking and encryption at rest and in transit?
+
+⸻
+
+ 8. Collaboration & Leadership
+	•	How do you influence data architecture decisions across teams?
+	•	Describe a time you led a cross-functional effort to resolve a data reliability issue.
+	•	How do you mentor junior engineers and establish data engineering best practices?
+	•	How do you prioritize work and balance tech debt in a large-scale platform?
+
+⸻
+
+ 9. Behavioral / Situational
+	•	Tell me about a challenging data engineering problem you solved.
+	•	Describe a time when your data pipeline broke and how you handled it.
+	•	How do you stay current with emerging technologies in data engineering?
+	•	What’s a recent design decision you regret and why?

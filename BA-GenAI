@@ -1,0 +1,65 @@
+Here’s a Business Analyst interview question list focused on Machine Learning (ML) and Generative AI (GenAI) projects:
+
+
+
+💼 Business Analyst Interview Questions — ML & GenAI Projects
+
+🧠 General Understanding
+	1.	What’s the role of a Business Analyst in a Machine Learning or GenAI project?
+	2.	How would you explain the difference between AI, Machine Learning, and Generative AI to a non-technical stakeholder?
+	3.	Can you describe the typical lifecycle of an ML or GenAI project?
+	4.	What business problems are best suited for ML vs. GenAI solutions?
+	5.	How do you evaluate whether a problem is appropriate for AI-driven automation or decision-making?
+
+
+📊 Requirements Gathering & Stakeholder Management
+	1.	How would you identify and define business objectives for an ML project?
+	2.	What techniques do you use to translate business requirements into data and model requirements?
+	3.	How do you manage stakeholder expectations regarding model performance and accuracy?
+	4.	Can you describe how you prioritize features or use cases when implementing an AI system?
+	5.	How do you ensure alignment between data scientists, engineers, and business teams?
+
+📈 Data Understanding & Analysis
+	1.	How do you assess the quality and readiness of data for ML use cases?
+	2.	What are key data-related risks you monitor during an AI project?
+	3.	How do you handle situations when data is biased or incomplete?
+	4.	What metrics would you track to evaluate data quality and model effectiveness?
+	5.	How do you define KPIs for measuring AI model performance from a business perspective?
+
+
+🤖 Machine Learning & Model Insights
+	1.	What’s the difference between supervised, unsupervised, and reinforcement learning?
+	2.	How would you explain model explainability (XAI) and why it matters?
+	3.	How do you interpret and communicate model performance metrics (e.g., precision, recall, F1 score) to business stakeholders?
+	4.	Describe a time you worked on a project that used predictive analytics — what was your role?
+	5.	How do you validate that a deployed model is still performing effectively over time?
+
+🧩 Generative AI & Use Cases
+	1.	What’s the difference between a discriminative and a generative model?
+	2.	How would you assess business value for implementing a GenAI solution (e.g., content generation, summarization, chatbots)?
+	3.	What are the key risks of using GenAI in business processes (e.g., hallucinations, copyright, data privacy)?
+	4.	How do you ensure responsible and ethical AI usage in a generative context?
+	5.	What kind of metrics would you use to evaluate a GenAI system’s output quality?
+
+
+🔐 Governance, Compliance, and Ethics
+	1.	What frameworks or principles would you apply to ensure AI governance and compliance?
+	2.	How do you handle data privacy considerations under regulations like GDPR or CCPA in AI projects?
+	3.	How do you ensure fairness and transparency in ML/GenAI outputs?
+	4.	What’s your approach to documenting AI decisions for auditability?
+	5.	How would you respond to a stakeholder concerned about AI replacing human jobs?
+
+
+⚙️ Project Execution & Delivery
+	1.	Describe your experience using Agile or Scrum for data science or AI projects.
+	2.	How do you manage project scope and change requests in an ML or GenAI initiative?
+	3.	What tools or platforms have you used to support AI project delivery (e.g., Azure ML, AWS Sagemaker, OpenAI APIs)?
+	4.	How do you handle post-deployment monitoring and continuous improvement for AI systems?
+	5.	What’s your approach to quantifying ROI for AI projects?
+
+💬 Scenario-Based Questions
+	1.	A stakeholder asks for an AI solution but cannot define the problem clearly. How would you proceed?
+	2.	The model shows good accuracy but business users are unhappy with the results — how do you handle it?
+	3.	You discover the model output has a gender or cultural bias. What’s your next step?
+	4.	The data science team uses complex terminology the business doesn’t understand — how do you bridge that gap?
+	5.	You’re asked to prioritize between explainability and accuracy — which would you choose and why?
